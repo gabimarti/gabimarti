@@ -52,3 +52,4 @@ Always learning a little bit of everything. There is always something to learn.
 
 [![X](https://img.shields.io/badge/-@310hkc41b-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/310hkc41b)
 [![LinkedIn](https://img.shields.io/badge/-Gabriel_Martí-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabimarti/)
+[![Email](https://img.shields.io/badge/-contact@gabimarti.slmail.me-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@gabimarti.slmail.me)
