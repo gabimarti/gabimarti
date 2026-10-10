@@ -8,6 +8,9 @@ cryptography · wireless communications · ham radio
 
 $ cat motto.txt
 Always learning a little bit of everything. There is always something to learn.
+
+$ curl ![https://gabimarti.github.io/](https://gabimarti.github.io/)
+Loading personal profile page ...
 ```
 
 - 🎓 MSc in Computer Security — La Salle (Barcelona), thesis on keyloggers & reverse engineering
