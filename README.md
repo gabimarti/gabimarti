@@ -22,7 +22,7 @@ Always learning a little bit of everything. There is always something to learn.
 
 ### 🚀 Latest project
 
-**[analitix](https://github.com/gabimarti/analitix)** — Privacy-first personal health tracker. Desktop app that reads lab test reports (PDF), stores the results in an encrypted database and charts how they evolve over time.
+- **[analitix](https://github.com/gabimarti/analitix)** — Privacy-first personal health tracker. Desktop app that reads lab test reports (PDF), stores the results in an encrypted database and charts how they evolve over time.
 
 ### 🔬 Reverse Engineering
 
