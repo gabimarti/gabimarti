@@ -4,7 +4,7 @@ Gabriel Martí (@gabimarti) · Spain
 Cybersecurity Consultant · Reverser · Ethical Hacker · Developer
 
 $ cat about.txt
-35+ years in tech: started as a developer, ended up in cybersecurity,
+In tech since 1986: started as a developer, ended up in cybersecurity,
 and never stopped coding.
 MSc in Cybersecurity, La Salle (Barcelona): thesis on keyloggers and
 reverse engineering, with honours.
