@@ -43,9 +43,15 @@ Always learning a little bit of everything. There is always something to learn.
 
 **Legacy** ![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white) ![Pascal](https://img.shields.io/badge/-Pascal-1E3F66?style=flat-square) ![Clipper / dBase](https://img.shields.io/badge/-Clipper_·_dBase-6B4226?style=flat-square) ![Visual Basic](https://img.shields.io/badge/-Visual_Basic-5C2D91?style=flat-square) ![QuickBASIC](https://img.shields.io/badge/-QuickBASIC-0000AA?style=flat-square) ![PLCs](https://img.shields.io/badge/-PLCs_(Omron_·_Keyence_·_GE_Fanuc_·_Siemens_Simatic)-555555?style=flat-square) ![Novell NetWare](https://img.shields.io/badge/-Novell_NetWare-E1001A?style=flat-square)
 
-### 🚀 Latest project
+### 🚀 Featured projects
 
+- **[AgySwitcher](https://github.com/gabimarti/agyswitcher)** ([website](https://gabimarti.github.io/agyswitcher/) · [article](https://gabimarti.medium.com/programar-con-agentes-de-ia-a-coste-cero-cuotas-contexto-y-continuidad-624b245177de)) — Multiple Google accounts in Antigravity CLI (`agy`) without losing project context for zero-cost continuous coding. Windows.
 - **[analitix](https://github.com/gabimarti/analitix)** ([website](https://gabimarti.github.io/analitix/)) — Privacy-first personal health tracker. Desktop app that reads lab test reports (PDF), stores the results in an encrypted database and charts how they evolve over time.
+
+### ✍️ Articles
+
+- **[Programar con agentes de IA a coste cero: cuotas, contexto y continuidad](https://gabimarti.medium.com/programar-con-agentes-de-ia-a-coste-cero-cuotas-contexto-y-continuidad-624b245177de)** — Continuous AI coding with multi-account rotation and context preservation in Antigravity CLI (Medium, in Spanish).
+- More technical articles on reverse engineering, security and hashing at **[gabimarti.medium.com](https://gabimarti.medium.com/)**.
 
 ### 🔬 Reverse Engineering
 
