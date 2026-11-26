@@ -1,7 +1,10 @@
 ```console
 $ whoami
 Gabriel Martí (@gabimarti) · Spain
-Cybersecurity Consultant · Reverser · Ethical Hacker · Developer
+Cybersecurity & Software Development Specialist · Reverser · Ethical Hacker
+
+$ cat status.txt
+Open to new opportunities.
 
 $ cat about.txt
 In tech since 1986: started as a developer, ended up in cybersecurity,
@@ -22,9 +25,9 @@ Always learning a little bit of everything. There is always something to learn.
 
 - **Reverse engineering & malware analysis** — taking binaries apart (desktop, mobile, embedded), crackmes, keyloggers
 - **Offensive security & AppSec** — pentesting, security audits, code review, SAST / DAST / SCA on web and mobile apps (Android, iOS)
-- **Security R&D** — leading development of security products for wireless environments (hardware & software)
+- **Security R&D** — led the development of security products for wireless environments (hardware & software)
 - **Defensive & GRC** — hardening, endpoint monitoring (Wazuh, Fleet / osquery), Microsoft 365 / Entra / Intune policies, ENS & ISO 27001
-- **AI-assisted engineering** — Python with autonomous agents, MCP and LLMs for secure code generation and automation
+- **AI-assisted engineering** — daily coding with Claude Code; Python with autonomous agents, MCP and LLMs for secure code generation, vulnerability analysis and automation; local models with Ollama
 - **Teaching** — C programming, systems administration, ethical hacking and reverse engineering
 
 ### 🛠️ Toolbox
@@ -37,7 +40,7 @@ Always learning a little bit of everything. There is always something to learn.
 
 **Defensive** ![Wazuh](https://img.shields.io/badge/-Wazuh-3595F9?style=flat-square) ![Fleet / osquery](https://img.shields.io/badge/-Fleet_·_osquery-6A67FE?style=flat-square) ![Microsoft 365 · Entra · Intune](https://img.shields.io/badge/-Microsoft_365_·_Entra_·_Intune-0078D4?style=flat-square) ![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 
-**AI engineering** ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=flat-square) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square)
+**AI engineering** ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white) ![Antigravity](https://img.shields.io/badge/-Antigravity-4285F4?style=flat-square) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 **Systems** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
