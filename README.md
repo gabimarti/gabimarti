@@ -85,7 +85,7 @@ Always learning a little bit of everything. There is always something to learn.
 
 🗣️ Spanish · Catalan · English
 
-[![Website](https://img.shields.io/badge/-gabimarti.github.io-39D353?style=flat-square&logo=gnubash&logoColor=white)](https://gabimarti.github.io/)
+[![Website](https://img.shields.io/badge/-gabimarti.github.io-39D353?style=flat-square&logo=gnubash&logoColor=white)](https://gabimarti.github.io/en/)
 [![X](https://img.shields.io/badge/-@310hkc41b-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/310hkc41b)
 [![LinkedIn](https://img.shields.io/badge/-Gabriel_Martí-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/gabimarti/)
 [![Medium](https://img.shields.io/badge/-gabimarti.medium.com-000000?style=flat-square&logo=medium&logoColor=white)](https://gabimarti.medium.com/)
